@@ -1,0 +1,2 @@
+# QuanXProfile
+Profile for Quantumult
