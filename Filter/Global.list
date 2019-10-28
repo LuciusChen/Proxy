@@ -570,6 +570,5 @@ DOMAIN-SUFFIX,x-art.com,PROXY
 DOMAIN-SUFFIX,yimg.com,PROXY
 DOMAIN-SUFFIX,castro.fm,PROXY
 DOMAIN-SUFFIX,ptwxz.com,PROXY
-DOMAIN-SUFFIX,swarmapp.com,PROXY
 DOMAIN,api.steampowered.com,PROXY
 DOMAIN,store.steampowered.com,PROXY
