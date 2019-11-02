@@ -573,3 +573,4 @@ DOMAIN-SUFFIX,swarmapp.com,PROXY
 DOMAIN-SUFFIX,ptwxz.com,PROXY
 DOMAIN,api.steampowered.com,PROXY
 DOMAIN,store.steampowered.com,PROXY
+DOMAIN,www.googleadservices.com,PROXY
